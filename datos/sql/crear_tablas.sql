@@ -1,7 +1,3 @@
--- Script de creación de la base de datos (SQLite).
--- Equivale a lo que genera Peewee con db.create_tables().
--- Uso:  sqlite3 kanban.db < datos/sql/crear_tablas.sql
-
 PRAGMA foreign_keys = ON;
 
 CREATE TABLE IF NOT EXISTS usuarios (

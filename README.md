@@ -2,11 +2,8 @@
 
 ## Integrantes
 
-| Nombre | Rol |
-|---|---|
-| _Nombre Apellido_ | _Rol_ |
-| _Nombre Apellido_ | _Rol_ |
-| _Nombre Apellido_ | _Rol_ |
+Gabriel Benjamin Bravo Manriquez
+Constanza Ilonka Monserrat Sanchez Badilla
 
 > Reemplazar por los integrantes reales del equipo.
 

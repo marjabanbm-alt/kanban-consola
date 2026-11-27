@@ -1,11 +1,9 @@
--- Consultas de referencia equivalentes a las de los repositorios.
-
 -- Tableros con su propietario
 SELECT t.id, t.titulo, u.nombre_usuario AS propietario
 FROM tableros t JOIN usuarios u ON u.id = t.propietario_id
 ORDER BY t.id;
 
--- Vista Kanban de un tablero (reemplazar 1 por el id del tablero)
+-- Vista Kanban de un tablero
 SELECT l.posicion AS pos_lista, l.titulo AS lista, c.posicion AS pos_tarjeta,
        c.titulo AS tarjeta, c.prioridad, c.fecha_limite, u.nombre_usuario AS asignado_a
 FROM listas l
