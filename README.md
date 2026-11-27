@@ -5,8 +5,6 @@
 Gabriel Benjamin Bravo Manriquez
 Constanza Ilonka Monserrat Sanchez Badilla
 
-> Reemplazar por los integrantes reales del equipo.
-
 ## Descripción general
 
 Aplicación de **consola** multicapa para gestionar proyectos con tableros Kanban, al estilo Trello:
