@@ -147,3 +147,7 @@ Aplicación → Login → Validación (BCrypt) → Menú principal
 ## Diagramas
 
 Ver [`docs/diagramas.md`](docs/diagramas.md): diagrama de clases UML, modelo entidad-relación, arquitectura por capas y flujo de autenticación.
+
+## Evaluación N°2
+
+La guía de la Evaluación Formativa de la Unidad 2 y su resumen están en [`docs/evaluacion_2/`](docs/evaluacion_2/README.md).
